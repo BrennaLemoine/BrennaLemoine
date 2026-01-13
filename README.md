@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Brenna 👋
 
 <!--
 **BrennaLemoine/BrennaLemoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Major
+My intended major is computer science
+
+### Projects
+<ul>
+  <li> The first project is going to be... </li>
+  <li> The second project is going to be... </li>
+</ul>
