@@ -1,4 +1,4 @@
-## Hi, I'm Brenna 👋
+## Hi, I'm Brenna ✨
 
 <!--
 **BrennaLemoine/BrennaLemoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### Major
-My intended major is computer science
+My intended major is bachelors science computer science (BSCS)
 
 ### Projects
 <ul>
-  <li> The first project is going to be... </li>
-  <li> The second project is going to be... </li>
+  <li> One project I am going to do is learn how to cook this semester. </li>
+  <li> Another project I intend to do this semester is to paint and redecorate my room. </li>
 </ul>
