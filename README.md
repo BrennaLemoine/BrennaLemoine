@@ -20,6 +20,8 @@ My intended major is bachelors science computer science (BSCS)
 
 ### Projects
 <ul>
-  <li> One project I am going to do is learn how to cook this semester. </li>
-  <li> Another project I intend to do this semester is to paint and redecorate my room. </li>
+  <li> One project I am going to do is learn how to cook. I want to be able to cook my favorite dishes by the end of this semester.
+  I plan on practicing on the weekends when I have time.</li>
+  <li> Another project I intend to do is redecorate my room. I'm going to paint the walls a different color and buy a few more wall decorations
+   to make my room look less sparce.</li>
 </ul>
