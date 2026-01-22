@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 My intended major is bachelors science computer science (BSCS)
 
 ### Projects
-  - One project I am going to do is learn how to cook. I want to be able to cook my favorite dishes by the end of this semester. I plan on practicing on the weekends when I have time.
-  - Another project I intend to do is redecorate my room. I'm going to paint the walls a different color and buy a few more wall decorations to make my room look less sparce.
+  - One project I am going to do this semester is code a GUI (Graphic User Interface) game in Java. I will program a space invaders type game in which enemy ships will move down the screen every few seconds and slowly get faster. The user's ship can move horizontally at the bottom of the screen and will shoot upwards automatically. The user uses the arrow keys on their keyboard to move left or right in order to aim at the enemy ships and destroy them, giving them points. 
+  - Another project I am going to do this semester is to create a program in Java to determine the amount of trucks and drones needed to achieve the fastest delivery time in a day for a specified amount of packages being delived. Trucks can carry more packages than drones, but can get stuck at train crossings if there is a train or other trucks waiting. The program will determine the amount of trucks and drones needed to deliver the packages in the most efficient time. 
